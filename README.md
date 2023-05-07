@@ -17,3 +17,10 @@ Rewrite the bucket sort algorithm to call itself until each bucket contains only
 * Please do not double-submit. If you are part of a group, do not submit a separate assignment as well.
 * List your group members in the README file or in the header for your submission.
 * Submit by May 8 at 12 am.
+
+## Authors
+
+- Benedikt Korbach ([benedikt-korbach](https://github.com/benedikt-korbach))
+- Niklas Pawelzik ([nikpaw](https://github.com/nikpaw))
+- Justus von Samson-Himmelstjerna ([jvsamson](https://github.com/jvsamson))
+- Alvaro Guijarro ([Alvaroguijarro97](https://github.com/Alvaroguijarro97))
