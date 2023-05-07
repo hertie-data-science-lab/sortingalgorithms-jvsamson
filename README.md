@@ -18,6 +18,16 @@ Rewrite the bucket sort algorithm to call itself until each bucket contains only
 * List your group members in the README file or in the header for your submission.
 * Submit by May 8 at 12 am.
 
+## Solution:
+
+Our final submission is in the file 'bucket_recursive.py'. We have reworked the original bucket sort algorithm to call itself recursively until each bucket contains only one element or is already sorted by another stable sorting algorithm. We have used modular programming and provided documentation throughout the code to maximize the quality of our work.
+
+### The 'bucket_recursive.py' file includes:
+- The `bucketSort_recursive` function, which is our modified recursive bucket sort algorithm.
+- A test function with various test cases, including positive, negative, decimal, zero, and duplicate values, to demonstrate the functionality of the algorithm.
+- A docstring for the `bucketSort_recursive` function, explaining its purpose, parameters, return values, and modularity despite having the test function in the same file.
+
+
 ## Authors
 
 - Benedikt Korbach ([benedikt-korbach](https://github.com/benedikt-korbach))
