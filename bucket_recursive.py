@@ -11,6 +11,18 @@ Created on Sun May  7 16:37:20 2023
 
 
 def bucketSort_recursive(array):
+    """
+    Sorts the input array using a recursive bucket sort algorithm.
+
+    This code is designed to be modular, allowing the bucketSort_recursive function
+    to be easily reused in other projects or with different test cases. The test function
+    is included in the same file to avoid confusion in a repository with many files.
+    However, the separation between the core function and the test function ensures
+    modularity and maintainability of the code.
+
+    :param array: The list of numbers to be sorted.
+    :return: A new list containing the sorted elements.
+    """
     # Find minimum/maximum values in input array:
     # Find minimum in input array
     min_val = min(array)
