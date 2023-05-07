@@ -2,7 +2,11 @@
 """
 Created on Sun May  7 16:37:20 2023
 
-@author: niklas
+@authors:
+- Benedikt Korbach (GitHub: benedikt-korbach)
+- Niklas Pawelzik (GitHub: nikpaw)
+- Justus von Samson-Himmelstjerna (GitHub: jvsamson)
+- Alvaro Guijarro (GitHub: Alvaroguijarro97)
 """
 
 
